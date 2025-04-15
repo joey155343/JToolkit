@@ -4,8 +4,6 @@ A collection of handy Java utility functions
 
 JToolkit is a collection of simple utilities and test cases that I have found useful in my development process and daily
 life.
-This repository serves as a personal record of these tools, making it easier for me to reuse them in the future or
-review past implementations.
 
 ---
 
